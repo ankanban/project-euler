@@ -1,0 +1,6 @@
+
+# Sum of n natural numbers.
+Sigma_k=1...n_(k) = n(n + 1) / 2
+
+# Sum of fibonacci sequence.
+Sigma_j=1...n_(F_j_) = F_n+2_-1
